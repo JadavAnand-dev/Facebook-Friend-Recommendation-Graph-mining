@@ -3,7 +3,7 @@
 Problem statement:
 Given a directed social graph, have to predict missing links to recommend users (Link Prediction in graph)
 
-Data Overview
+Data Overview:
 Taken data from facebook's recruting challenge on kaggle https://www.kaggle.com/c/FacebookRecruiting
 (https://www.kaggle.com/c/FacebookRecruiting)
 data contains two columns source and destination eac edge in graph
